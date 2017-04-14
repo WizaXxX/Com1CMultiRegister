@@ -1,0 +1,9 @@
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Interop.COMAdmin.dll
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Interop.COMAdmin.dll
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\msk5552\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
